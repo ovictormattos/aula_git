@@ -1,0 +1,9 @@
+# IGNORAR POR NOME DO ARQUIVO
+
+changelog.txt
+
+# IGNORAR PELA EXTENSÃO
+*.log
+
+# IGNORAR UMA PASTA 
+logs/
